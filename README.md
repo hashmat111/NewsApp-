@@ -2,19 +2,15 @@
 # News App
 
 > A dynamic and visually engaging news application built with Flutter. The app features real-time headlines from various sources, with category tabs for easy navigation between general and business news. It offers a clean interface with image previews, concise summaries, and 'read more' buttons for an enhanced reading experience. Designed with responsiveness and smooth transitions, the app ensures seamless access to breaking news for users.
+> 
+![News_App](https://github.com/user-attachments/assets/20d48926-6e92-4198-ad7c-fd43b64c6346)
 
-![screenshot](./Desktop/NewsApp.png)
+![News_App_2](https://github.com/user-attachments/assets/c4fbd065-0fcc-409e-9b3e-a02ed98aacb1)
 
 ## Built With
-
 - Flutter
 - Dart
 - Andriod Studio
-
-## Live Demo
-
-[Live Demo Link](https://haseebsediqi.github.io/MyPortfolio/)
-
 
 ## Authors
 
