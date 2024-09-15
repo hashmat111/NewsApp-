@@ -1,16 +1,38 @@
-# news
+# Project Name
+# News App
 
-A new Flutter project.
+> A dynamic and visually engaging news application built with Flutter. The app features real-time headlines from various sources, with category tabs for easy navigation between general and business news. It offers a clean interface with image previews, concise summaries, and 'read more' buttons for an enhanced reading experience. Designed with responsiveness and smooth transitions, the app ensures seamless access to breaking news for users.
 
-## Getting Started
+![screenshot](./Desktop/NewsApp.png)
 
-This project is a starting point for a Flutter application.
+## Built With
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
+- Andriod Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Live Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Live Demo Link](https://haseebsediqi.github.io/MyPortfolio/)
+
+
+## Authors
+
+👤 *Hashmatullah Sediqi*
+
+- GitHub: [@githubhandle](https://github.com/hashmat111)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hashmatsediqi/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
