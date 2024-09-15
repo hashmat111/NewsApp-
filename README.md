@@ -5,6 +5,7 @@
 > 
 ![News_App](https://github.com/user-attachments/assets/20d48926-6e92-4198-ad7c-fd43b64c6346)
 ![NewsApp_2_](https://github.com/user-attachments/assets/09aea0bb-5b38-469d-a5f3-a53565e6506e)
+![Simulator Screenshot - iPhone 15 Plus - 2024-09-15 at 13 29 02](https://github.com/user-attachments/assets/07245142-26c7-4407-a179-c8150e4cce86)
 
 
 
